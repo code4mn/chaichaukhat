@@ -1,0 +1,98 @@
+#Side_menu a{
+    color: #9fb1c2;
+    font-weight: 600;
+}
+#Side_menu .active a
+{
+color: #ffffff;
+background-color: #27AAE1;
+font-weight: bold;
+}
+#Side_menu a:hover{
+    color: #ffffff;
+    background-color: #1ab394;
+    font-weight: bold;
+    display: block;
+}
+body
+{
+	background-color: #2f4050;
+}
+#mainbody
+{
+	 /*background: url(../images/5.jpg) no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-position: center;
+	background-attachment: fixed;
+    font-size: 100%;
+    font-family: 'Encode Sans Condensed', sans-serif;
+    overflow-x: hidden;*/
+    background-color: #FFFFFF;
+}
+/*#code
+{
+	background-color: #FFFFFF;
+	height: 38px;
+	padding: 8px;
+	border: 2px solid #8c969c;
+    border-radius: 6px 0px 0px 6px;
+}
+.bt1
+{
+  background-color:#f76b53;
+
+}
+
+
+.ul
+{
+  text-align: center;
+
+}
+ul>li
+{
+    float: left;
+    width: 50%;
+    list-style: none;
+}
+.listhead
+{
+    font-size: 22px;
+    font-weight: bold;
+}
+.listitem
+{
+font-size: 25px;
+width:0%;
+padding-top:0px;
+
+}
+.dtable>tr>td>h2
+{
+color:white ;
+}
+.link
+{
+    color: #fff;
+}*/
+.hello
+{
+    width: 30px;
+    border: 2px solid #f76b53;
+  border-radius: 5px;
+}
+/*.overflow
+{
+    height: 500px;
+    overflow: scroll;
+}*/
+.nitems
+{
+    color: #fff;
+    font-size: 25px;
+    
+}
